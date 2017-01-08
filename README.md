@@ -4,4 +4,4 @@
 - Geocoded location data
 - Visualization on a map using Basemap
 
-![Water Pollutants in India - Data Visualization](https://raw.githubusercontent.com/vinayshanbhag/coordinates/master/India-water-pollution-plot.png)
+![Water Pollutants in India - Data Visualization](https://github.com/vinayshanbhag/coordinates/raw/master/india-water-pollution-anim.gif)
